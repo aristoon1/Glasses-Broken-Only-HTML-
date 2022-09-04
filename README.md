@@ -1,5 +1,4 @@
-### **Glasses-OnlyHTML เว็บไซต์นี้จะมีแค่ Frontend ซึ่งจะมีแค่ HTML, CSS, JS ไม่มี Backend เลยครับ** 
-### **ภายในเว็บจะมีดังนี้ครับ**
+### **Glasses-OnlyHTML เว็บไซต์นี้จะมีแค่ Frontend ซึ่งจะมีแค่ HTML, CSS, JS ไม่มี Backend** 
 - หน้าหลักของเว็บไซต์
 ![main](https://user-images.githubusercontent.com/32282316/188274016-d072d914-e06d-4976-9df7-8d4e7dbada18.png) 
 - หน้าแสดงสินค้าแนะนำของร้าน
